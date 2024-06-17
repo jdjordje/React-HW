@@ -1,0 +1,11 @@
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  background-color: #393e46;
+  color: #f2f2f2;
+}
+
+.Header .header-line {
+  margin-left: 10px;
+}

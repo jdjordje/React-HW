@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  user-select: none;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #222831;
+  margin-top: 10px;
+}
+
+main {
+  background-color: #393e46;
+}

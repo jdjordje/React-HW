@@ -1,0 +1,24 @@
+.item-status {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  color: #f96d00;
+}
+
+.item-status div {
+  width: 90px;
+  justify-content: center;
+  align-content: center;
+}
+
+.item-status .number {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  color: antiquewhite;
+}
+
+.item-status .text {
+  font-size: 12px;
+  text-align: center;
+}
